@@ -15,8 +15,8 @@
 - php artisan db:seed
 
 
-## 登录
+## demo
 
-- url: /login (首页底部左侧有博主登录的链接)
-- 默认管理员账号:admin@qq.com   
-- 默认管理员密码：123456
+- <a href="http://112.74.160.25:8080/login">demo</a>
+- 默认管理员账号: admin   
+- 默认管理员密码：admin
